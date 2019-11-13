@@ -1,0 +1,45 @@
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+TypeVolition=1
+UnspecRange=1
+ActionState=1
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-945919732
+[InstructionProfiling]
+Enabled=_ 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "D:\创新产品开发-1\2016暑期培训\新设备资料\模块一\试题T-1-44  利用按键触发定时器实现2个LED闪烁，周期4秒\CC2530-1\main.c" "C:\Users\Administrator\Desktop\新设备资料\模块一\试题T-1-44  利用按键触发定时器实现2个LED闪烁，周期4秒\CC2530-1\main.c"
+A1=_ "D:\创新产品开发-1\物联网应用技术技能抽查\研讨会\程序\模块一\试题T-1-44  利用按键触发定时器实现2个LED闪烁，周期4秒\CC2530-1\main.c" "F:\公司开发产品资料\物联网应用技术技能抽查\开发资料\程序\模块一\试题T-1-44  利用按键触发定时器实现2个LED闪烁，周期4秒\CC2530-1\main.c"
+Count=2
+SuppressDialog=0
