@@ -1,0 +1,58 @@
+[DebugChecksum]
+Checksum=1556135682
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "D:\创新产品开发-1\物联网应用技术技能抽查\开发资料\程序\模块二\智慧城市WSN应用开发\06_基于BasciRF的实训\1 RF配置与通讯建立\CC2530_lib\basicrf\basic_rf.c" "F:\公司开发产品资料\物联网应用技术技能抽查\开发资料\程序\模块二\试题T-2-08 点对点控制按下时点亮1 个LED，松开时熄灭\CC2530_lib\common\hal_rf.c"
+A1=_ "D:\创新产品开发-1\物联网应用技术技能抽查\开发资料\程序\模块二\智慧城市WSN应用开发\06_基于BasciRF的实训\1 RF配置与通讯建立\CC2530_lib\common\hal_rf.c" "F:\公司开发产品资料\物联网应用技术技能抽查\开发资料\程序\模块二\试题T-2-04 点对点控制控制1 个LED 闪烁，周期1 秒\CC2530_lib\common\hal_rf.c"
+A2=_ "F:\201207培训\无线串口实验\CC2530_lib\common\hal_mcu.c" ""
+Count=3
+SuppressDialog=0

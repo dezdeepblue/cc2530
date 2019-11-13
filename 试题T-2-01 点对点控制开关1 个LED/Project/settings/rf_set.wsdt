@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>rf_set/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>322</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1034</ColumnWidth1><ColumnWidth2>275</ColumnWidth2><ColumnWidth3>68</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1379</ColumnWidth1><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Debug-Log>
+    <TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17564-9576</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>rf_set</ExpandedNode><ExpandedNode>rf_set/app</ExpandedNode><ExpandedNode>rf_set/basicrf</ExpandedNode><ExpandedNode>rf_set/board</ExpandedNode><ExpandedNode>rf_set/board/hal_board.c</ExpandedNode><ExpandedNode>rf_set/common</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rf_set.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1145</SelStart><SelEnd>1371</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\basicrf\basic_rf.c</Filename><XPos>0</XPos><YPos>156</YPos><SelStart>5151</SelStart><SelEnd>5151</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_board.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>223</SelStart><SelEnd>487</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_board.h</Filename><XPos>0</XPos><YPos>283</YPos><SelStart>14698</SelStart><SelEnd>14698</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\common\hal_uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>916</SelStart><SelEnd>916</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\CC2530_lib\board\hal_led.c</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>2110</SelStart><SelEnd>2122</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01c3d9a0><key>iaridepm.enu1</key></Toolbar-01c3d9a0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>641</Bottom><Right>413</Right><x>-2</x><y>-2</y><xscreen>142</xscreen><yscreen>188</yscreen><sizeHorzCX>138672</sizeHorzCX><sizeHorzCY>274052</sizeHorzCY><sizeVertCX>405273</sizeVertCX><sizeVertCY>937318</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
